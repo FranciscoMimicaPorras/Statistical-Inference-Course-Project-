@@ -48,6 +48,7 @@ Sample Mean versus Theoretical Mean: Include figures with titles. In the figures
 Sample Variance versus Theoretical Variance: Include figures (output from R) with titles. Highlight the variances you are comparing. Include text that explains your understanding of the differences of the variances.
 Distribution: Via figures and text, explain how one can tell the distribution is approximately normal.
 
+See results: https://rpubs.com/FranciscoMimicaPorras/726740
 
 Part 2: Basic Inferential Data Analysis Instructions
 
