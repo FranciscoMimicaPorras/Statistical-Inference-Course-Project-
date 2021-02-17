@@ -59,3 +59,4 @@ Provide a basic summary of the data.
 Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose. (Only use the techniques from class, even if there's other approaches worth considering)
 State your conclusions and the assumptions needed for your conclusions.
 
+See results: https://rpubs.com/FranciscoMimicaPorras/726801
